@@ -1,0 +1,57 @@
+Q,Section,Tujuan Section,Tujuan Pertanyaan,Pertanyaan,Jenis Jawaban,Opsi Jawaban,Keterangan,Rencana Visualisasi
+1,Identitas,,,Nama,Isian singkat,,,
+2,,,,NIM,Isian singkat,,,Bar Chart Fakultas
+3,,,,Kelas,Drop-down,"SE01, SE01.. SS24;",,Bar Chart Kelas
+4,,,,Instagram,Isian singkat,,opsional,
+5,Kondisi Akademik KM PKU,Untuk bahan postingan di feeds,Mengetahui kondisi awal mahasiswa,Seberapa cepat kamu merasa mampu beradaptasi dengan ritme PKU,Likert-scale,Sangat Lambat,,Stacked bar chart
+,,,,,,Lambat,,
+,,,,,,Cepat,,
+,,,,,,Sangat Cepat,,
+6,,,Mengetahui tingkat kepercayaan diri (Psikologis),"Saat ini, kamu merasa secara akademik..",Likert-scale,Sangat kewalahan,,Bar chart
+,,,,,,Kurang percaya diri,,
+,,,,,,Cukup percaya diri,,
+,,,,,,Sangat percaya diri,,
+7,,,Mengetahui hambatan mahasiswa dalam performa akademik,Apa yang paling menghambat performa akademik kamu? (Pilih max 3),Checkboxes,Sulit memahami konsep,opsi random,Bar chart
+,,,,,,Manajemen waktu,pilih max 3,
+,,,,,,Deadline menumpuk,,
+,,,,,,Kurang latihan soal,,
+,,,,,,Kurang teman diskusi,,
+,,,,,,Distraksi,,
+,,,,,,Kurang motivasi,,
+,,,,,,Lainnya,,
+8,,,Mengetahui penyebab performa kurang maksimal,"Jika kamu pernah mendapat nilai kurang maksimal, penyebab utamanya adalah : ",Checkboxes,Kurang memahami konsep,pilih max 2,Bar chart
+,,,,,,Kurang latihan soal,,
+,,,,,,Manajemen waktu saat kuis / ujian,,
+,,,,`,,Kurang persiapan,,
+,,,,,,Lainnya,,
+9,,,Memetakan preferensi & efektivitas belajar (Req Akpres 1 & 2),Metode belajar apa yang paling sering kamu gunakan dan terbukti efektif untuk memahami materi kuliah di PKU?,Checkboxes,Belajar Mandiri,pilih max 3,Bar chart
+,,,,,,Diskusi Kelompok,,
+,,,,,,Menonton ulang rekaman/YouTube,,
+,,,,,,Ikut tutor kakak tingkat,,
+,,,,,,Latihan soal mandiri,,
+,,,,,,Lainnya,,
+10,Preferensi Program Bantuan Akademik,Untuk mengetahui preferensi program akademik,Mengetahui permintaan KM PKU terhadap program ,"Jika ada program bantuan akademik, apakah kamu tertarik ikut?",Likert-scale,Sangat tidak tertarik,,bar chart
+,,,,,,Tidak Tertarik,,
+,,,,,,Tertarik,,
+,,,,,,Sangat Tertarik,,
+11,,,Mengetahui permintaan KM PKU,Program apa yang paling kamu butuhkan?,Checkboxes,Bedah konsep sulit,pilih max 2,Bar Chart
+,,,,,,Latihan soal intensif,,
+,,,,,,Akses bank soal dan ringkasan materi lengkap,,
+,,,,,,Fasilitas grup diskusi/belajar lintas kelas,,
+,,,,,,Sharing session tips & trik survive nilai akademik bareng kating,,
+12,,,Identifikasi matkul prioritas tutor (Req Akpres 7),Mata kuliah PKU apa yang menurut kamu paling membutuhkan pendampingan belajar tambahan?,Checkboxes,Fisika Dasar; Kimia Dasar; Biologi Dasar; Ekonomi Umum/Dasar; Landasan Matematika; Sosiologi Umum; Bahasa Inggris; Lainnya,Matkul general. Alpro/Kalkulus diisi via 'Lainnya',Bar Chart
+jujur nomor 12 janggal,,,,,,,pilih max ,
+13,,,Waktu Ideal,Waktu paling ideal untuk program bantuan akademik,Multiple Choice,Weekday Sore,,Pie Chart
+,,,,,,Weekday Malam,,
+,,,,,,Weekend Pagi,,
+,,,,,,Weekend Sore,,
+14,,,"Evaluasi tingkat kenyamanan & ""Rumah Kedua"" (Req Akpres 3 & 4)","Sejauh mana kamu merasa Ormawa (khususnya Akpres) sudah hadir dan nyaman dijadikan ""Rumah Kedua"" untuk tempatmu belajar dan berdiskusi?",Likert-scale,Sama sekali belum terasa (Sangat tidak nyaman & belum hadir),,Bar Chart
+,,,,,,Belum terlalu terasa (Kurang nyaman),,
+,,,,,,Sudah mulai terasa (Nyaman & cukup hadir),,
+,,,,,,Sangat terasa (Sangat nyaman & sangat hadir),,
+15,,,Pemetaan kebutuhan & evaluasi layanan lomba (Req Akpres 5 & 6),"Terkait pelayanan prestasi, bentuk bantuan pendampingan lomba apa yang paling kamu butuhkan dari Akpres saat ini?",Checkboxes,Info lomba ter-update,pilih max,Bar chart
+,,,,,,"Mentoring spesifik (misal: Lomba Business Case, Esai, KTI)",,
+,,,,,,Bantuan mencari rekan tim,,
+,,,,,,Bantuan perizinan birokrasi,,
+,,,,,,Lainnya,,
+16,Harapan & Saran,,Mengetahui ekspektasi mahasiswa (Req Akpres 8 & 9 + Asli Q12),"Jika Ormawa Eksekutif PKU bisa membantu kamu dalam satu hal secara akademik, bantuan apa yang paling kamu harapkan?",Isian singkat,,,Wordcloud
